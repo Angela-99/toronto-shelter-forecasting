@@ -1,0 +1,10 @@
+horizon_months,model,mae,rmse,mape_pct
+1,Naive (last value),326.0,404.0,3.14
+1,Seasonal naive,594.0,649.0,5.8
+1,Drift,339.0,411.0,3.27
+3,Naive (last value),792.0,960.0,7.67
+3,Seasonal naive,594.0,649.0,5.8
+3,Drift,831.0,993.0,8.09
+6,Naive (last value),906.0,1027.0,8.82
+6,Seasonal naive,594.0,649.0,5.8
+6,Drift,968.0,1109.0,9.49
