@@ -1,0 +1,5 @@
+series,observations,adf_p,kpss_p,verdict
+Level,102,0.203,0.01,not stationary
+First difference,101,0.303,0.1,inconclusive
+Seasonal difference (12),90,0.295,0.1,inconclusive
+First + seasonal difference,89,0.194,0.1,inconclusive
