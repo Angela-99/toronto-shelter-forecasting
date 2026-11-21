@@ -1,0 +1,4 @@
+model,order,seasonal_order
+SARIMA,"(2, 1, 2)","(0, 0, 1, 12)"
+SARIMA + COVID,"(2, 1, 2)","(0, 0, 1, 12)"
+ETS,damped=True,seasonal=add
